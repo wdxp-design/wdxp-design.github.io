@@ -1,0 +1,5 @@
+#!/usr/file
+
+lineprnt({Hello World}color=blue)
+
+end
